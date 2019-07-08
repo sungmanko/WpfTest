@@ -1,0 +1,1 @@
+D:\workspace\Sample\WpfTest\WpfTest\bin\Debug\WpfTest.exe.config
